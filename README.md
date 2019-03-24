@@ -1,6 +1,8 @@
 # Software Automatic Mouth
 
-Compiled for Raspberry Pi, ~~plus sing script edited for Unix commandline use. The original one had DOS carriage returns which made it crash before the song starts.~~ (deleted after uploading the refactored bash demo scripts)
+Compiled for Raspberry Pi 3B and 3B+, ~~plus sing script edited for Unix commandline use. The original one had DOS carriage returns which made it crash before the song starts.~~ (deleted after uploading the refactored bash demo scripts)
+
+If you would like a version compiled for the Zero or Raspberry Pi 2B, let me know and I'll do it. I don't have a first-gen Raspberry Pi, so I won't be able to help you there...
 
 The manual is from Archive.org.
 
