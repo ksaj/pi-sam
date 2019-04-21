@@ -1,10 +1,10 @@
 # Software Automatic Mouth
 
-Compiled for Raspberry Pi 3B and 3B+, ~~plus sing script edited for Unix commandline use. The original one had DOS carriage returns which made it crash before the song starts.~~ (deleted after uploading the refactored bash demo scripts)
+Compiled for Raspberry Pi 3B and 3B+, plus the original samples that came with SAM, modified to work on the Linux command line.
 
 If you would like a version compiled for the Zero or Raspberry Pi 2B, let me know and I'll do it. I don't have a first-gen Raspberry Pi, so I won't be able to help you there...
 
-I downloaded the manual is from Archive.org. Go [here](https://github.com/s-macke/SAM) for the code and credits.
+I downloaded the manual from Archive.org since there are a lot of ways you can get SAM to talk more realistically. At the time, it certainly was groundbreaking. Go [here](https://github.com/s-macke/SAM) for the code and credits.
 
 ## Instructions
 
