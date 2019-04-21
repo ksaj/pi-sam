@@ -4,9 +4,7 @@ Compiled for Raspberry Pi 3B and 3B+, ~~plus sing script edited for Unix command
 
 If you would like a version compiled for the Zero or Raspberry Pi 2B, let me know and I'll do it. I don't have a first-gen Raspberry Pi, so I won't be able to help you there...
 
-The manual is from Archive.org.
-
-Go [here](https://github.com/s-macke/SAM) for the code and credits.
+I downloaded the manual is from Archive.org. Go [here](https://github.com/s-macke/SAM) for the code and credits.
 
 ## Instructions
 
